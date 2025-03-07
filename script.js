@@ -1,4 +1,4 @@
-let currentPage = 0;
+let currentPage = 4;
 const pages = document.querySelectorAll(".page");
 const nextBtn = document.getElementById("nextBtn");
 
